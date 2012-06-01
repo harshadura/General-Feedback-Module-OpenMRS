@@ -31,9 +31,19 @@ public class HeaderInclude extends HeaderIncludeExt {
 
         myHeaderFiles.add("/moduleResources/feedback/fdbk.js");
 
+        myHeaderFiles.add("/moduleResources/feedback/bbq.js");
+        myHeaderFiles.add("/moduleResources/feedback/jquery.validate.js");
+        myHeaderFiles.add("/moduleResources/feedback/jquery-ui-1.8.5.custom.min.js");
+        myHeaderFiles.add("/moduleResources/feedback/jquery.form.js");
+        myHeaderFiles.add("/moduleResources/feedback/jquery.form.wizard.js");
+
+        myHeaderFiles.add("/moduleResources/feedback/pageStyle.css");
+        myHeaderFiles.add("/moduleResources/feedback/jquery-ui-1.8.2.custom.css");
+
         return myHeaderFiles;
     }
 }
 
 
 //~ Formatted by Jindent --- http://www.jindent.com
+
